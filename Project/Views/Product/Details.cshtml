@@ -1,0 +1,52 @@
+﻿@using Project.Models
+@model Product
+
+<style>
+    .img{
+        width:420px;
+        height:450px;
+    }
+    
+    .text{
+        text-align:left;
+        margin-left:50px;
+        margin-top:90px;
+    }
+    .button {
+        width: 200px;
+        height: 50px;
+        background-color:red;
+        padding:10px;
+        
+    }
+</style>
+@{ ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+<br />
+
+<CENTER>
+    <div class="row">
+        <div class="col-4">
+            <h2 class="mb-5">What are our products?</h2>
+
+            <img class="img mb-5" src="@Url.Content("~/ProductImage/" + Model.Image)" alt="" />
+        </div>
+        <div class="text col-6">
+            <h3 class="mb-2"> @Model.ProductName</h3>
+            <h3 style="color:red">Price: @Model.ProductPrice</h3>
+            <br />
+            <div class="mb-5">@Model.ProductDescription</div>
+            
+            <br />
+
+            @Html.ActionLink("Add To Cart", "addToCart", new { productID = Model.ProductID }, new { @class = "button" })
+        </div>
+
+        
+
+        <br />
+
+        
+
+    </div>
+</CENTER>

@@ -1,0 +1,602 @@
+C:\Users\Admin\source\repos\Project\Project\bin\Project.dll.config
+C:\Users\Admin\source\repos\Project\Project\bin\Project.dll
+C:\Users\Admin\source\repos\Project\Project\bin\Project.pdb
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\csc.exe
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\csc.rsp
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\csi.exe
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\csi.rsp
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\vbc.exe
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\source\repos\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\Project\Project\bin\Antlr3.Runtime.dll
+C:\Users\Admin\source\repos\Project\Project\bin\EntityFramework.dll
+C:\Users\Admin\source\repos\Project\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\source\repos\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\source\repos\Project\Project\bin\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Project\Project\bin\PagedList.dll
+C:\Users\Admin\source\repos\Project\Project\bin\PagedList.Mvc.dll
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.Helpers.dll
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.Mvc.dll
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.Optimization.dll
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.Razor.dll
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.WebPages.dll
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\source\repos\Project\Project\bin\WebGrease.dll
+C:\Users\Admin\source\repos\Project\Project\bin\EntityFramework.xml
+C:\Users\Admin\source\repos\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\Project\Project\bin\PagedList.xml
+C:\Users\Admin\source\repos\Project\Project\bin\PagedList.Mvc.xml
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.Razor.xml
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.WebPages.xml
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\source\repos\Project\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\source\repos\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\source\repos\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\source\repos\Project\Project\obj\Debug\Project.Migrations.SugasContextV1.resources
+C:\Users\Admin\source\repos\Project\Project\obj\Debug\Project.Migrations.UserRole.resources
+C:\Users\Admin\source\repos\Project\Project\obj\Debug\Project.Migrations.UserLogin.resources
+C:\Users\Admin\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Admin\source\repos\Project\Project\obj\Debug\Project.dll
+C:\Users\Admin\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\Admin\source\repos\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\Project.dll.config
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\Project.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\Project.pdb
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\csc.exe
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\csc.exe.config
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\csc.rsp
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\csi.exe
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\csi.exe.config
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\csi.rsp
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Console.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Net.Http.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\vbc.exe
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\vbc.rsp
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\Antlr3.Runtime.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\EntityFramework.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\Newtonsoft.Json.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\PagedList.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\PagedList.Mvc.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.Helpers.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.Mvc.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.Optimization.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.Razor.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.WebPages.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\WebGrease.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\EntityFramework.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\PagedList.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\PagedList.Mvc.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.Helpers.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.Mvc.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.Optimization.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.Razor.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.WebPages.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\obj\Debug\Project.Migrations.SugasContextV1.resources
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\obj\Debug\Project.Migrations.UserRole.resources
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\obj\Debug\Project.Migrations.UserLogin.resources
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\obj\Debug\Project.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\obj\Debug\Project.pdb
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\EPPlus.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\System.ComponentModel.Annotations.dll
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\EPPlus.xml
+C:\Users\This MC\OneDrive\Desktop\PRN211Project\Project\bin\Microsoft.IO.RecyclableMemoryStream.xml
+<<<<<<< Updated upstream
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\Project.dll.config
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\Project.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\Project.pdb
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\csc.exe
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\csc.exe.config
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\csc.rsp
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\csi.exe
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\csi.exe.config
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\csi.rsp
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.AppContext.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Console.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Net.Http.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\vbc.exe
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\vbc.exe.config
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\vbc.rsp
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\Antlr3.Runtime.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\EntityFramework.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\EPPlus.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\Newtonsoft.Json.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\PagedList.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\PagedList.Mvc.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.ComponentModel.Annotations.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.Helpers.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.Mvc.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.Optimization.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.Razor.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.WebPages.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\WebGrease.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\EntityFramework.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\EPPlus.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\PagedList.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\PagedList.Mvc.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.Helpers.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.Mvc.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.Optimization.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.Razor.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.WebPages.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\Newtonsoft.Json.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\Antlr3.Runtime.pdb
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.Migrations.SugasContextV1.resources
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.Migrations.UserRole.resources
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.Migrations.UserLogin.resources
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.pdb
+<<<<<<< HEAD
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.Migrations.contact.resources
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.Migrations.fixdate.resources
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\BCrypt.Net.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\bin\BCrypt.Net.xml
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.Migrations.changepassword.resources
+=======
+>>>>>>> Stashed changes
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\Project.dll.config
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\Project.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\Project.pdb
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\EPPlus.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\PagedList.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\EPPlus.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\PagedList.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Project\PRN211\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Project\PRN211\Project\obj\Debug\Project.Migrations.SugasContextV1.resources
+C:\Users\Admin\Desktop\Project\PRN211\Project\obj\Debug\Project.Migrations.UserRole.resources
+C:\Users\Admin\Desktop\Project\PRN211\Project\obj\Debug\Project.Migrations.UserLogin.resources
+C:\Users\Admin\Desktop\Project\PRN211\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project\PRN211\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project\PRN211\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project\PRN211\Project\obj\Debug\Project.dll
+C:\Users\Admin\Desktop\Project\PRN211\Project\obj\Debug\Project.pdb
+C:\Users\Admin\Desktop\Project\PRN211\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Project\PRN211\Project\obj\Debug\Project.Migrations.Contact.resources
+C:\Users\Admin\Desktop\Project\PRN211\Project\obj\Debug\Project.Migrations.check.resources
+>>>>>>> 035c5ddb1152f330bb4962e42d7e53c434aac1f9
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.Migrations.order.resources
+C:\Users\This MC\OneDrive\Desktop\ProjectPRN211\PRN211\Project\obj\Debug\Project.Migrations.Order2.resources
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\Project.dll.config
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\Project.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\Project.pdb
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\csc.exe
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\csc.exe.config
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\csc.rsp
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\csi.exe
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\csi.exe.config
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\csi.rsp
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.AppContext.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Console.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Net.Http.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\vbc.exe
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\vbc.exe.config
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\vbc.rsp
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\Antlr3.Runtime.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\BCrypt.Net.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\EntityFramework.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\EPPlus.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\Newtonsoft.Json.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\PagedList.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\PagedList.Mvc.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.ComponentModel.Annotations.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.Helpers.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.Mvc.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.Optimization.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.Razor.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.WebPages.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\WebGrease.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\BCrypt.Net.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\EntityFramework.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\EPPlus.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\PagedList.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\PagedList.Mvc.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.Helpers.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.Mvc.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.Optimization.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.Razor.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.WebPages.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\Newtonsoft.Json.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\Antlr3.Runtime.pdb
+C:\Users\nguye\Desktop\New folder\PRN211\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.Migrations.SugasContextV1.resources
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.Migrations.UserRole.resources
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.Migrations.UserLogin.resources
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.Migrations.contact.resources
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.Migrations.fixdate.resources
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.Migrations.changepassword.resources
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.Migrations.order.resources
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.Migrations.Order2.resources
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.dll
+C:\Users\nguye\Desktop\New folder\PRN211\Project\obj\Debug\Project.pdb
+D:\PRN211\Project\bin\Project.dll.config
+D:\PRN211\Project\bin\Project.dll
+D:\PRN211\Project\bin\Project.pdb
+D:\PRN211\Project\bin\roslyn\csc.exe
+D:\PRN211\Project\bin\roslyn\csc.exe.config
+D:\PRN211\Project\bin\roslyn\csc.rsp
+D:\PRN211\Project\bin\roslyn\csi.exe
+D:\PRN211\Project\bin\roslyn\csi.exe.config
+D:\PRN211\Project\bin\roslyn\csi.rsp
+D:\PRN211\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PRN211\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PRN211\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PRN211\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PRN211\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PRN211\Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PRN211\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PRN211\Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PRN211\Project\bin\roslyn\System.AppContext.dll
+D:\PRN211\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\PRN211\Project\bin\roslyn\System.Console.dll
+D:\PRN211\Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PRN211\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PRN211\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PRN211\Project\bin\roslyn\System.Globalization.Calendars.dll
+D:\PRN211\Project\bin\roslyn\System.IO.Compression.dll
+D:\PRN211\Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PRN211\Project\bin\roslyn\System.IO.FileSystem.dll
+D:\PRN211\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PRN211\Project\bin\roslyn\System.Net.Http.dll
+D:\PRN211\Project\bin\roslyn\System.Net.Sockets.dll
+D:\PRN211\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\PRN211\Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PRN211\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PRN211\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PRN211\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PRN211\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PRN211\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PRN211\Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PRN211\Project\bin\roslyn\System.ValueTuple.dll
+D:\PRN211\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PRN211\Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PRN211\Project\bin\roslyn\System.Xml.XPath.dll
+D:\PRN211\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PRN211\Project\bin\roslyn\vbc.exe
+D:\PRN211\Project\bin\roslyn\vbc.exe.config
+D:\PRN211\Project\bin\roslyn\vbc.rsp
+D:\PRN211\Project\bin\roslyn\VBCSCompiler.exe
+D:\PRN211\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\PRN211\Project\bin\Antlr3.Runtime.dll
+D:\PRN211\Project\bin\BCrypt.Net.dll
+D:\PRN211\Project\bin\DevOne.Security.Cryptography.BCrypt.dll
+D:\PRN211\Project\bin\EntityFramework.dll
+D:\PRN211\Project\bin\EntityFramework.SqlServer.dll
+D:\PRN211\Project\bin\EPPlus.dll
+D:\PRN211\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PRN211\Project\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\PRN211\Project\bin\Microsoft.Web.Infrastructure.dll
+D:\PRN211\Project\bin\Newtonsoft.Json.dll
+D:\PRN211\Project\bin\PagedList.dll
+D:\PRN211\Project\bin\PagedList.Mvc.dll
+D:\PRN211\Project\bin\System.ComponentModel.Annotations.dll
+D:\PRN211\Project\bin\System.Web.Helpers.dll
+D:\PRN211\Project\bin\System.Web.Mvc.dll
+D:\PRN211\Project\bin\System.Web.Optimization.dll
+D:\PRN211\Project\bin\System.Web.Razor.dll
+D:\PRN211\Project\bin\System.Web.WebPages.Deployment.dll
+D:\PRN211\Project\bin\System.Web.WebPages.dll
+D:\PRN211\Project\bin\System.Web.WebPages.Razor.dll
+D:\PRN211\Project\bin\WebGrease.dll
+D:\PRN211\Project\bin\BCrypt.Net.xml
+D:\PRN211\Project\bin\EntityFramework.xml
+D:\PRN211\Project\bin\EntityFramework.SqlServer.xml
+D:\PRN211\Project\bin\EPPlus.xml
+D:\PRN211\Project\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\PRN211\Project\bin\PagedList.xml
+D:\PRN211\Project\bin\PagedList.Mvc.xml
+D:\PRN211\Project\bin\System.Web.Helpers.xml
+D:\PRN211\Project\bin\System.Web.Mvc.xml
+D:\PRN211\Project\bin\System.Web.Optimization.xml
+D:\PRN211\Project\bin\System.Web.Razor.xml
+D:\PRN211\Project\bin\System.Web.WebPages.xml
+D:\PRN211\Project\bin\System.Web.WebPages.Deployment.xml
+D:\PRN211\Project\bin\System.Web.WebPages.Razor.xml
+D:\PRN211\Project\bin\Newtonsoft.Json.xml
+D:\PRN211\Project\bin\Antlr3.Runtime.pdb
+D:\PRN211\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PRN211\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\PRN211\Project\obj\Debug\Project.Migrations.SugasContextV1.resources
+D:\PRN211\Project\obj\Debug\Project.Migrations.UserRole.resources
+D:\PRN211\Project\obj\Debug\Project.Migrations.UserLogin.resources
+D:\PRN211\Project\obj\Debug\Project.Migrations.contact.resources
+D:\PRN211\Project\obj\Debug\Project.Migrations.fixdate.resources
+D:\PRN211\Project\obj\Debug\Project.Migrations.changepassword.resources
+D:\PRN211\Project\obj\Debug\Project.Migrations.order.resources
+D:\PRN211\Project\obj\Debug\Project.Migrations.Order2.resources
+D:\PRN211\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\PRN211\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\PRN211\Project\obj\Debug\Project.csproj.CopyComplete
+D:\PRN211\Project\obj\Debug\Project.dll
+D:\PRN211\Project\obj\Debug\Project.pdb

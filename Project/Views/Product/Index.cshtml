@@ -1,0 +1,107 @@
+﻿@*<div class="row">
+
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3 col-sm-6">
+                <a href="@Url.Action("Details", new { @productID = item.ProductID })">
+
+
+                    <img src="@Url.Content("~/ProductImage/" + item.Image)" width="300" height="250" />
+
+                </a>
+                <center>
+                    <h4>@item.ProductName</h4>
+                    <h4 style="color:red">Price @item.ProductPrice</h4>
+                    <h5>
+                        @{ if (item.Stock > 0)
+                            {<a> Available</a>}
+                           else if (item.Stock == 0)
+                            {<a>Out of Stock</a> }
+                    }
+
+                </h5>
+                <br />
+
+                <input type="submit" value="Buy" id="bgnCart" />
+
+            </center>
+
+        </div>}
+
+    </div>*@
+@model PagedList.IPagedList<Project.Models.Product>
+@using PagedList.Mvc;
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.css">
+
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.js"></script>
+<style>
+    .button {
+        background-color: burlywood;
+        padding: 10px;
+    }
+</style>
+<div class="container">
+
+
+    <div class="row mb-3 mt-3">
+        <div class="col-12">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">Image</th>
+                        <th scope="col">Information</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td scope="row">
+                                <a href="@Url.Action("Details", new {@productID=item.ProductID })">
+                                    <img src="@Url.Content("~/ProductImage/" + item.Image)" width="400" height="350" />
+                                </a>
+                            </td>
+                            <td scope="row" class="pt-5">
+                                <center>
+                                    <h4 class="pb-3">@item.ProductName</h4>
+                                    <h4 style="color:red">Price @item.ProductPrice</h4>
+                                    <h5 class="mb-3">
+                                        @{ if (item.Stock > 0)
+                                            {<a> Available</a>}
+                                            else if (item.Stock == 0)
+                                            {<a>Out of Stock</a> }
+                                        }
+
+                                    </h5>
+                                    <br />
+
+                                    @Html.ActionLink("Add To Cart", "addToCart", new { productID = item.ProductID}, new { @class = "button" })
+                                </center>
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+
+    <!-- Content here -->
+    <div class="row mb-3">
+        Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+    </div>
+    <div class="row mb-3">
+
+
+        @Html.PagedListPager(Model, page => Url.Action("Index",
+            new { page }))
+    </div>
+</div>
+<script>
+    $(".table").DataTable();
+</script>
+
